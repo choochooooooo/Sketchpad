@@ -5,7 +5,7 @@ import time
 import os
 import json
 
-subreddits = ['TownofSalemgame','Catholicism']
+subreddits = ['motorcycles','wallstreetbets']
 ignored_users = ['[deleted]', 'automoderator']
 lookback_days = 120
 min_comments_per_sub = 1
